@@ -1,8 +1,7 @@
 # RISC-V CPU
 
-Zhou Fan (范舟)
 
-This project is a RISC-V CPU with 5-stage pipeline implemented in Verilog HDL, which is a course project of Computer Architecture, ACM Class @ SJTU.
+This project is a RISC-V CPU with 5-stage pipeline implemented in Verilog HDL, which is a course project of Computer Architecture, ACM Class @ IITR.
 
 ## Documents
 
@@ -43,11 +42,3 @@ Scematic Overview
 CPU Module Scematic
 ![implementation-circuit-cpu](doc/implementation-circuit-cpu.png)
 
-## References
-
-* 雷思磊. 自己动手写 CPU. 电子工业出版社, 2014.
-* John L. Hennessy, David A. Patterson, et al. Computer Architecture: A Quantitative
-Approach, Fifth Edition, 2012.
-* David A. Patterson. PPT of CS252 Graduate Computer Architecture, 2001.
-* [Zhekai Zhang's CPU project](https://github.com/sxtyzhangzk/mips-cpu)
-* [Verilog: always @ Blocks by Chris Fletcher](doc/Always@.pdf)
